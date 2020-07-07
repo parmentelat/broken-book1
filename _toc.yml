@@ -1,0 +1,9 @@
+# it does not seem to matter if the subparts
+# (files mentioned in the 'sections' key)
+# start with level 1 or 2
+- file: chapter1
+  sections:
+    - file: section1
+- file: chapter2
+  sections:
+    - file: section2

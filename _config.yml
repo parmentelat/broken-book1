@@ -1,0 +1,6 @@
+# Book settings
+title: jupyter-book tests
+author: Thierry Parmentelat
+
+execute:
+  execute_notebooks: force
